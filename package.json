@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://theyashkishore.github.io/",
+  "homepage": "https://theyashkishore.github.io/portfolio/",
   "private": false,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
