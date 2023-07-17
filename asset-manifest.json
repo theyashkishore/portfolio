@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/theyashkishore/portfolio/static/css/main.7eb13f05.css",
+    "main.js": "/theyashkishore/portfolio/static/js/main.78334396.js",
+    "static/js/415.4d6acbeb.chunk.js": "/theyashkishore/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/theyashkishore/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/chatify.png": "/theyashkishore/portfolio/static/media/chatify.d2b7cb84f39fa3a286f0.png",
+    "static/media/blog.png": "/theyashkishore/portfolio/static/media/blog.996e5a70bab0d0e4f023.png",
+    "static/media/home-main.png": "/theyashkishore/portfolio/static/media/home-main.b76fdccadf707d69ffa4.png",
+    "static/media/MyResume.pdf": "/theyashkishore/portfolio/static/media/MyResume.4b169accaff86e5bf32b.pdf",
+    "static/media/about.png": "/theyashkishore/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/avatar2.png": "/theyashkishore/portfolio/static/media/avatar2.2b47763945cb66bafafa.png",
+    "static/media/pre.svg": "/theyashkishore/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/theyashkishore/portfolio/index.html",
+    "main.7eb13f05.css.map": "/theyashkishore/portfolio/static/css/main.7eb13f05.css.map",
+    "main.78334396.js.map": "/theyashkishore/portfolio/static/js/main.78334396.js.map",
+    "415.4d6acbeb.chunk.js.map": "/theyashkishore/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/theyashkishore/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eb13f05.css",
+    "static/js/main.78334396.js"
+  ]
+}
